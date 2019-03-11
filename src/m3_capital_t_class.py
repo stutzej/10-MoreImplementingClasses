@@ -304,7 +304,7 @@ class CapitalT(object):
 
         Type hints:
           :rtype: CapitalT
-        """
+        """ 
         # ---------------------------------------------------------------------
         # DONE: 7.
         #   READ the above specification, including the Example.
